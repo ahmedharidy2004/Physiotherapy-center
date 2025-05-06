@@ -1,0 +1,5 @@
+﻿  Schedular.cpp
+C:\Users\Ahmed Mahmoud\OneDrive\Desktop\Ph2_Team_6\DS_Project\Schedular.cpp(331,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahmed Mahmoud\OneDrive\Desktop\Ph2_Team_6\DS_Project\EarlypriList.h(99,1): warning C4715: 'EarlyPList::Reschedule': not all control paths return a value
+C:\Users\Ahmed Mahmoud\OneDrive\Desktop\Ph2_Team_6\DS_Project\X_WaitingList.h(94,1): warning C4715: 'X_WaitingList::Cancel': not all control paths return a value
+  DS_Project.vcxproj -> C:\Users\Ahmed Mahmoud\OneDrive\Desktop\Ph2_Team_6\DS_Project\x64\Debug\DS_Project.exe

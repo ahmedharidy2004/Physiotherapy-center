@@ -1,0 +1,45 @@
+test case 1
+
+1 - early and late patients with different penalties
+
+2- accepted cancellation and rescheduling
+
+3-devices become unavailable then available again.
+
+4 - normal flow of elements with different durations.
+
+test case 2
+
+1- rooms become full then available again.
+
+2- devices become unavailable then available again.
+
+3 - early and late patients with different penalties.
+
+4 - normal flow of elements with different durations.
+
+test case 3
+
+1 - devices become unavailable then available again.
+
+2 - accepted and unaccepted cancelations.
+
+test case 4
+
+1 - normal flow of elements with different durations.
+
+2 - early and late patients with different durations
+
+test case 5
+
+1 - N and R treatment order Handling
+
+2 - normal flow of elements with different durations.
+
+test case 6:
+
+1 - accepted cancellation and rescheduling
+
+2- normal flow of elements with different durations.
+
+Note: test cases 1, 2 covers most scenarios
