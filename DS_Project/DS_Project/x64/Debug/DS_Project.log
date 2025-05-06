@@ -1,7 +1,0 @@
-﻿  Main.cpp
-C:\Users\hp\Desktop\DS_Project\Schedular.h(157,14): warning C4101: 'Pb': unreferenced local variable
-  (compiling source file 'Main.cpp')
-  
-C:\Users\hp\Desktop\DS_Project\Main.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\hp\Desktop\DS_Project\X_WaitingList.h(107,1): warning C4715: 'X_WaitingList::Cancel': not all control paths return a value
-  DS_Project.vcxproj -> C:\Users\hp\Desktop\DS_Project\x64\Debug\DS_Project.exe
