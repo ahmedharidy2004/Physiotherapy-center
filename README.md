@@ -36,12 +36,6 @@ The output file contains:
 1. Per-patient data (PID, type, times, wait/treatment durations, cancellation/rescheduling status)
 2. System statistics (averages, percentages, totals)
 
-## 
-
-```
-./program_name input_file.txt -s
-
-```
 
 ## Key Features
 
